@@ -1,0 +1,2 @@
+Este mensaje es para diferenciar de cambio1 a cambio2
+Es para prácticar en git y github.
